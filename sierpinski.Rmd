@@ -6,8 +6,8 @@ output:
 ---
 
 ```{r, echo=FALSE}
-if (!require("gifski", quietly=TRUE)) install.packages("gifski")
-depth = 15
+#if (!require("gifski", quietly=TRUE)) install.packages("gifski")
+#depth = 15
 ```
 
 # Sierpiński triangle
